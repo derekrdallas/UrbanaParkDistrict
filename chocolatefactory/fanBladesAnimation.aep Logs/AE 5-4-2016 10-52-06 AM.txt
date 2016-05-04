@@ -1,0 +1,12 @@
+Adobe After Effects v13.5.1 Windows 64 render log for project “fanBladesAnimation.aep”
+
+Rendering started on 5/4/2016 at 10:52:06 AM
+
+  5/4/2016 10:52:06 AM: Starting composition “fanBLades2”.
+
+  Output To: X:\Instructor resources\freelance\UrbanaParkDistrict\chocolatefactory\renderedImages\bladesAndWall_[#####].png    5/4/2016 10:52:12 AM: Finished composition “fanBLades2”.
+
+
+  Total Time Elapsed: 6 Seconds
+Log closed on 5/4/2016 at 10:52:12 AM
+
